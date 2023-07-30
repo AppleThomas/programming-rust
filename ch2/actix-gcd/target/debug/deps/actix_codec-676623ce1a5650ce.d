@@ -1,9 +1,0 @@
-/Users/thomasnguyen/programming-rust/ch2/actix-gcd/target/debug/deps/actix_codec-676623ce1a5650ce.rmeta: /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/lib.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/bcodec.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_read.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_write.rs
-
-/Users/thomasnguyen/programming-rust/ch2/actix-gcd/target/debug/deps/actix_codec-676623ce1a5650ce.d: /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/lib.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/bcodec.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_read.rs /Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_write.rs
-
-/Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/lib.rs:
-/Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/bcodec.rs:
-/Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed.rs:
-/Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_read.rs:
-/Users/thomasnguyen/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-codec-0.1.2/src/framed_write.rs:
